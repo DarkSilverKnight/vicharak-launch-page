@@ -118,7 +118,7 @@ Pre-built images for Android 12.1, Debian (Bullseye 11), and Ubuntu (Focal 20.04
 
 We do not build or design the camera module, but we do test it for compatibility with our Vaaman. We recommend buying the original camera module from the Raspberry Pi Foundation, or from one of our authorized resellers or Crowd Supply.
 
-**USB-C to USB-A Adapter:-** A USB-C to USB-A adapter is required to connect the Vicharak Vaaman board to the host computer. The adapter is not included in the Vicharak Vaaman board kit. You can purchase any USB-C-to-USB-A adapter from anywhere. We recommend the Basics USB-C to USB-A Male adapter.
+**USB-C to USB-A Cable:-** A USB-C to USB-A adapter is required to connect the Vicharak Vaaman board to the host computer. The adapter is not included in the Vicharak Vaaman board kit. You can purchase any USB-C-to-USB-A adapter from anywhere. We recommend the Basics USB-C to USB-A Male cable.
 
 ## Legend
 Insert the legend image 
