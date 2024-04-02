@@ -40,7 +40,7 @@ Pre-built images for Android 12.1, Debian (Bullseye 11), and Ubuntu (Focal 20.04
 - 1x USB 3.0 Type-A
 - 1x HDMI 2.0 (Micro), Supports maximum 4K @ 60 Hz display
 - 1x MIPI-DSI, Supports 2560x1600 @ 60 fps output with dual channel
-- 1x USB Type-C DP, Supports maximum 4K @ 60 Hz display
+- 1x USB Type-C with DP, Supports maximum 4K @ 60 Hz display
 - 1x MIPI-CSI, 2 lanes via FPC connector, support up to 800 MB/s bandwidth
 - 3.5 mm jack with mic
 - Gigabit ethernet (Realtek RTL8211E)
