@@ -97,9 +97,11 @@ Pre-built images for Android 12.1, Debian (Bullseye 11), and Ubuntu (Focal 20.04
 {vaaman-cnn | link}
 ## Acessories 
 **INSIDE THE BOX**
+
 **Power Delivery cable:-** The length of cable is **1.5 meters**. It's a Type-C to Type-C PD cable.
 
 **OPTIONAL ACESSORIES**
+
 **Power Delivery (PD) Adapter:-** Vicharak Vaaman will need a 12V-5A power adapter. This adapter is a Power Delivery (PD) adapter and can be used to power the board.
 
 **Wi-Fi and Bluetooth Antenna:-** The antenna is connected to the board via a U.FL connector. The antenna is a 2.4 GHz antenna and is compatible with 802.11 b/g/n Wi-Fi and Bluetooth 4
