@@ -119,6 +119,8 @@ We do not build or design the camera module, but we do test it for compatibility
 
 **USB-C to USB-A Cable:-** A USB-C to USB-A cable is required to connect the Vicharak's Vaaman SBC to the host computer. The cable is not included in the Vicharak Vaaman board kit. You can purchase any USB-C-to-USB-A cable from anywhere. We recommend the Basics USB-C to USB-A Male cable.
 
+**FPGA Programmer module:-** This module supports USB to JTAG or SPI interface and is utilized for configuring the FPGA form through onboard header pins.
+
 ## Legend
 Insert the legend image 
 
